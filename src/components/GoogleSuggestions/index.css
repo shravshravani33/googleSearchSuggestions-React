@@ -1,0 +1,34 @@
+.google-img {
+  height: 120px;
+  width: 400px;
+  margin-top: 100px;
+}
+.search-icon-decor {
+  height: 20px;
+  width: 20px;
+}
+.bar-decor {
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.bar-search {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0px 0px 16px 0px;
+  height: 30px;
+  width: 500px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.each-item-div {
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 10px;
+}
